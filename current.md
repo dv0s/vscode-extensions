@@ -2,6 +2,10 @@ The command used on windows
 ---
 code --list-extensions | % { "code --install-extension $_" }
 
+The command used on Unix
+---
+code --list-extensions | xargs -L 1 echo code --install-extension
+
 output
 ---
 
