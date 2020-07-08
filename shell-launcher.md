@@ -28,7 +28,7 @@ Go to Files --> Preferences --> Settings and this will open settings.json file a
 
 PS: You can use shellLauncher.shells.linux for Linux or shellLauncher.shells.osx for macOS.
 
-    Go to Files --> Preferences --> Keyboard Shortcuts and then find on {} icon on the top right corner to open keybindings.json file. Insert this:
+Go to Files --> Preferences --> Keyboard Shortcuts and then find on {} icon on the top right corner to open keybindings.json file. Insert this
 
 ```
 [
